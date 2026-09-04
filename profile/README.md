@@ -1,12 +1,3 @@
-## Hi there 👋
+## 명지대학교 IT 동아리 DEPth 4기 Main Project
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<img width="5048" height="1184" alt="Targeter" src="https://github.com/user-attachments/assets/f9bd2153-138f-4379-a9c6-033cc6c7c0af" />
