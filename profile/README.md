@@ -1,3 +1,3 @@
 ## 명지대학교 IT 동아리 DEPth 4기 Main Project
 
-<img width="5048" height="1184" alt="Targeter" src="https://github.com/user-attachments/assets/f9bd2153-138f-4379-a9c6-033cc6c7c0af" />
+<img width="3802" height="428" alt="더T_뎁스_MainProject" src="https://github.com/user-attachments/assets/1124b76e-807b-4d3a-ab12-cd79288fe82e" />
